@@ -97,7 +97,7 @@ textarea {
 
 
 html {
-  background-color: url(../img/white-texture.jpg) repeat;
+  background: url(../img/large-flowers.jpg) repeat;
   height: 100%;
 }
 
@@ -148,10 +148,9 @@ main {
 
 .div-1, .div-2, .div-3 {
   /*give the divs a width of 30%, add display:flex, set justify-content and align-items to center*/
-  color: #fff;
+  color: grey;
   line-height: 1.5em;
   font-size: 1em;
-  background-color: #d3d3d3;
   height: 300px;
   display: flex;
   width: 30%;
